@@ -45,8 +45,7 @@ I am a first-year **Artificial Intelligence Engineering** student with a passion
 ---
 
 ### 📫 Let's Connect!
-[ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/adel-mahmoud-elazawy-b35256378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](adelmahmoud11506@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adel-mahmoud-elazawy-b35256378)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelmahmoud11506@gmail.com)
 ---
 *Generated with ✨ by an AI Engineering Student*
