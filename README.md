@@ -1,98 +1,105 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm Adel Mahmoud</h1>
+  <h1>Hi, I'm Adel Mahmoud 👋</h1>
   <h3>🤖 AI Engineering Student | Machine Learning Enthusiast</h3>
 
   <p>
-    I'm a 2nd-year Artificial Intelligence Engineering student passionate about AI, Machine Learning, and building practical solutions with data.
+    I'm a 2nd-year Artificial Intelligence Engineering student passionate about building intelligent systems and turning data into meaningful solutions.
   </p>
 
-  <!-- Social Badges -->
+  <p>
+    Currently focusing on <b>Machine Learning</b> through self-learning and hands-on projects, with the long-term goal of becoming an <b>AI Engineer</b>. I'm also exploring <b>Cloud Computing</b> to better understand how AI systems can be deployed and scaled in real-world environments.
+  </p>
+
+  <br />
+
+  <!-- Social Links -->
+  <a href="https://www.linkedin.com/in/adel-mahmoud-elazawy-b35256378/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/adel-mahmoud-elazawy">
-    <img src="https://img.shields.io/github/followers/adel-mahmoud-elazawy?label=Followers&style=for-the-badge&color=007acc" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+
 </div>
 
 <br />
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 What I'm Currently Working On
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adel-mahmoud-elazawy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Adel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adel-mahmoud-elazawy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</div>
-
----
-
-### 🚀 What I'm Currently Doing
-
-- 🧠 Learning Machine Learning & its practical workflow
-- 📊 Working with real-world datasets
-- 🔍 Practicing EDA & Data Analysis
-- 🧹 Learning Data Preprocessing & Feature Engineering
-- 🤖 Building and evaluating Machine Learning models
-- ☁️ Exploring Cloud Computing for AI deployment
-- 🛠️ Building projects to strengthen my practical skills
+- 🧠 **Learning Machine Learning:** Deepening knowledge of foundational and practical ML workflows.
+- 📊 **Hands-on Projects:** Building solutions using complex, real-world datasets.
+- 🔬 **Core Skills:** Practicing EDA, Data Preprocessing, Feature Engineering & Model Evaluation.
+- ☁️ **Cloud Computing:** Exploring cloud platforms for AI model deployment.
+- 🛠️ **Engineering Skills:** Continuously improving problem-solving and clean coding standards.
 
 ---
 
 ### 🧰 Tech Stack
 
-<div align="center">
+**👨‍💻 Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+</p>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Data Science & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Tools & Platforms** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+**📊 Data Science & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
 
-</div>
+**🛠️ Tools**
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
 ### 📌 Featured Projects
 
-#### 🏡 [House Price Prediction — Linear Regression](https://github.com/adel-mahmoud-elazawy/House-price-LinearRegression-.git)
-> **Machine Learning regression project using King County dataset to predict house prices ($R^2 \approx 0.778$).**
+#### 🏡 [House Price Prediction — Linear Regression](https://github.com/adel-mahmoud-elazawy/House-price-LinearRegression-)
+> **A Machine Learning regression project predicting house prices using the King County dataset.**
 >
-> - **Highlights:** Dataset EDA, feature engineering, numerical/categorical preprocessing, comparing Linear, Ridge, and Lasso Regression.
-> - **Tech Stack:** `Python` • `Pandas` • `NumPy` • `Scikit-Learn` • `Matplotlib` • `Seaborn`
-
-#### 🚗 [Car Sales Data Analysis](https://github.com/adel-mahmoud-elazawy/data-analysis-with-python.git)
-> **Data Analysis project focusing on exploring car sales data and pricing relationships.**
+> - **Key Highlights:** Dataset inspection & EDA, feature engineering, numerical/categorical preprocessing.
+> - **Models Tested:** Linear Regression, Ridge, and Lasso.
+> - **Metrics Evaluated:** MAE, MSE, RMSE & $R^2$ (Best test performance: **$R^2 \approx 0.778$**).
+> - **Built with:** `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn`
 >
-> - **Highlights:** Data cleaning, EDA, visualization, memory optimization using categorical data types.
-> - **Tech Stack:** `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
+> 🔗 [**View Project on GitHub**](https://github.com/adel-mahmoud-elazawy/House-price-LinearRegression-)
 
----
+<br />
 
-### 🎯 Learning Roadmap
-
-`🐍 Python & Programming` ➔ `📊 Data Analysis & EDA` ➔ `🧹 Data Preprocessing` ➔ **`🤖 Machine Learning (Currently Here)`** ➔ `🧠 Deep Learning` ➔ `⚙️ AI Engineering` ➔ `☁️ Deployment & Cloud`
-
----
-
-### 🌱 Learning Philosophy
-
-> **Learn ➔ Build ➔ Evaluate ➔ Improve**
+#### 🚗 [Car Sales Data Analysis](https://github.com/adel-mahmoud-elazawy/data-analysis-with-python)
+> **Exploratory Data Analysis project focused on understanding car sales trends and pricing dynamics.**
 >
-> *I believe the best way to learn AI is by combining strong fundamentals with hands-on practice.*
+> - **Key Highlights:** Data cleaning, memory optimization using categorical types, and relationship analysis between car features, income, and sales.
+> - **Built with:** `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
+>
+> 🔗 [**View Project on GitHub**](https://github.com/adel-mahmoud-elazawy/data-analysis-with-python)
 
 ---
 
-### 📚 Beyond Code
+### 🎯 My Learning Roadmap
 
-- 📖 Reading about emerging tech & AI research
-- ☁️ Exploring Cloud Computing & Scalability
-- 🧠 Continuous learning & building practical projects
-
----
-
-<div align="center">
-  <p>🚀 <i>Building my skills today to build intelligent systems tomorrow.</i></p>
-</div>
+```text
+  Python & Programming
+          ↓
+  Data Analysis & EDA
+          ↓
+  Data Preprocessing
+          ↓
+🤖 Machine Learning  <-- [ Currently Focused Here ]
+          ↓
+   Deep Learning
+          ↓
+   AI Engineering
+          ↓
+ Deployment & Cloud ☁️
