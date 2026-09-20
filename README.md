@@ -4,7 +4,7 @@
   <h3>🤖 AI & Machine Learning Engineer | Data Science Enthusiast</h3>
 
   <p>
-    I'm a <b>2nd-year Artificial Intelligence Engineering student</b> passionate about building end-to-end intelligent systems, working with sensor pipelines, and turning complex data into actionable ML solutions.
+    I'm a <b>3nd-year Artificial Intelligence Engineering student</b> passionate about building end-to-end intelligent systems, working with sensor pipelines, and turning complex data into actionable ML solutions.
   </p>
 
   <p>
